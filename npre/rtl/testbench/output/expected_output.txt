@@ -1,0 +1,14 @@
+==========================================
+ Network Packet Routing Engine Testbench
+==========================================
+
+Destination = 0x10 | Output Port = 0 | Route Valid = 1
+Destination = 0x20 | Output Port = 1 | Route Valid = 1
+Destination = 0x30 | Output Port = 2 | Route Valid = 1
+Destination = 0x40 | Output Port = 3 | Route Valid = 1
+Destination = 0x55 | Output Port = 0 | Route Valid = 1
+Invalid Packet | Output Port = 0 | Route Valid = 0
+
+==========================================
+ Simulation Completed Successfully
+==========================================
